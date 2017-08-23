@@ -1,0 +1,35 @@
+h1 {
+	font-size: 55px;
+	color: DarkSlateBlue;
+
+}
+
+body{	background-color: DarkCyan ;
+
+}
+
+table, th
+{
+	border: 1.5px solid DarkSlateGray;
+}
+#divi{
+	border: 1.5px solid black;
+	width: 100%;
+	background-color: black;
+}
+#calendarioActivadades{
+    border: 1.5px solid black;
+	background-color: CadetBlue;
+
+}
+
+#asignaturasCursadas{
+	border: 2px DarkSlateGray;
+
+}
+#horario {
+	width: 100%;
+}
+#horarioT{
+	font-size: 40px;
+}
