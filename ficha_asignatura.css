@@ -1,0 +1,28 @@
+h1 {
+	font-size: 50px;
+	color: DarkSlateBlue;
+
+}
+
+body{	background-color: DarkCyan ;
+
+}
+
+table, th, td
+{
+	border: 1.5px solid DarkSlateGray;
+}
+
+li {
+	border: 1px ;
+	border-style: outset groove ;
+	background-color: CadetBlue;
+
+}
+#semsetres{
+	background-color: darkseagreen;
+}
+#info{
+	background-color: cornflowerblue;
+	width: 60%;
+}

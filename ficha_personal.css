@@ -8,7 +8,7 @@ body{	background-color: DarkCyan ;
 
 }
 
-table, th
+table, th, td
 {
 	border: 1.5px solid DarkSlateGray;
 }
@@ -16,11 +16,6 @@ table, th
 	border: 1.5px solid black;
 	width: 100%;
 	background-color: black;
-}
-#calendarioActivadades{
-    border: 1.5px solid black;
-	background-color: CadetBlue;
-
 }
 
 #asignaturasCursadas{
@@ -39,11 +34,6 @@ li {
 	border: 1px ;
 	border-style: outset groove ;
 	background-color: CadetBlue;
-	width: inherit;
+
 }
-#semsetres{
-	background-color: darkseagreen;
-}
-#info{
-	background-color: cornflowerblue;
-}
+

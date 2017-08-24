@@ -1,0 +1,27 @@
+h1 {
+	font-size: 50px;
+	color: DarkSlateBlue;
+
+}
+
+body{	background-color: DarkCyan ;
+
+}
+
+table.tabla_calendario{
+
+	border: 1.5px solid DarkSlateGray;
+}
+td {
+	border: 1.5px solid DarkSlateGray;
+}
+
+
+
+
+li {
+	border: 1px ;
+	border-style: outset groove ;
+	background-color: CadetBlue;
+
+}
